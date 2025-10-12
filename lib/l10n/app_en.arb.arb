@@ -1,0 +1,13 @@
+{
+  "appName": "Sehat Saathi",
+  "welcomeMessage": "Welcome to Sehat Saathi!",
+  "home": "Home",
+  "consult": "Consult",
+  "diagnosis": "Diagnosis",
+  "medicine": "Medicine",
+  "bookConsultation": "Book Consultation",
+  "settings": "Settings",
+  "selectLanguage": "Select Language",
+  "english": "English",
+  "punjabi": "Punjabi"
+}
