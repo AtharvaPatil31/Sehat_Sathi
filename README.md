@@ -43,6 +43,8 @@ To ensure easy and affordable access to qualified doctors for every rural househ
 - Grok AI llm model API
 
 **Integrations**
+
+- Supabase for Backend Storage
 - Twilio for Auth and OTP
 - Video calling API using ZegoCloud
 
