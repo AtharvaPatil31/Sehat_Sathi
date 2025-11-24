@@ -1,16 +1,57 @@
-# three
+# 🩺 Sehat Sathi — Your Personal Health Companion
 
-A new Flutter project.
+Sehat Sathi is a mobile app built using Flutter to help users monitor, manage and improve their everyday health. It empowers individuals with tools to track symptoms, maintain medical records, set reminders, and access reliable health information whenever needed.
 
-## Getting Started
+<br>
 
-This project is a starting point for a Flutter application.
+## 🌟 Vision
+To make healthcare guidance accessible, organized and effortless for everyone — especially non-tech users, senior citizens & families.
 
-A few resources to get you started if this is your first Flutter project:
+<br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Key Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🩹 Daily health status tracking
+- 📊 Symptom history dashboard
+- 💊 Medicine reminders
+- 📁 Store medical prescriptions & reports
+- 🧑‍⚕️ Doctor contact directory
+- ⚠️ Emergency help section
+- 📚 Health tips & awareness info
+- 👤 Profile & settings
+
+*(modify based on your real features)*
+
+<br>
+
+## 🛠 Tech Stack
+
+**Frontend**
+- Flutter
+- Dart
+
+**Backend**
+- Supabase / Firebase  
+*(depending on what you used)*
+
+**Integrations**
+- Local notifications / reminders
+- Cloud storage
+- Secure Auth
+
+<br>
+
+## 📷 UI Screenshots
+
+(place screenshots in `/screenshots` folder)
+
+| Home | Health Log | Reminders |
+|------|-------------|-----------|
+| ![](screenshots/home.png) | ![](screenshots/log.png) | ![](screenshots/reminders.png) |
+
+<br>
+
+## 🎥 App Demo
+
+(Add link after upload)
+
