@@ -1,4 +1,4 @@
-# 🩺 Sehat Sathi — Telemedicine App for Rural Nabha - Punjab
+# 🩺 Sehat Sathi — Telemedicine App for Rural Nabha,Punjab
 
 Sehat Sathi is a Flutter-based healthcare assistant designed to help people from Rural Nabha in Punjab. Users can store medical records, consult doctors remotely, and receive AI-powered health support even offline using a helpline number. The app focuses on accessibility, scalability and simplicity.
 
