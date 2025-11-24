@@ -5,7 +5,7 @@ Sehat Sathi is a Flutter-based healthcare assistant designed to help people from
 <br>
 
 ## 🌟 Vision
-To make personal healthcare guidance accessible, organized and intelligent — for every individual & family.
+To ensure easy and affordable access to qualified doctors for every rural household in Nabha, Punjab, through video consultations, digital medical records, emergency support and AI-powered healthcare guidance.
 
 <br>
 
