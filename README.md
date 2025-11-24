@@ -1,26 +1,31 @@
 # 🩺 Sehat Sathi — Your Personal Health Companion
 
-Sehat Sathi is a mobile app built using Flutter to help users monitor, manage and improve their everyday health. It empowers individuals with tools to track symptoms, maintain medical records, set reminders, and access reliable health information whenever needed.
+Sehat Sathi is a Flutter-based healthcare assistant designed to help people from Rural Nabha in Punjab. Users can store medical records, consult doctors remotely, and receive AI-powered health support even offline using a helpline number. The app focuses on accessibility, scalability and simplicity.
 
 <br>
 
 ## 🌟 Vision
-To make healthcare guidance accessible, organized and effortless for everyone — especially non-tech users, senior citizens & families.
+To make personal healthcare guidance accessible, organized and intelligent — for every individual & family.
 
 <br>
 
-## ✨ Key Features
+## ✨ Core Features
 
-- 🩹 Daily health status tracking
-- 📊 Symptom history dashboard
-- 💊 Medicine reminders
-- 📁 Store medical prescriptions & reports
+### 👥 Healthcare Connectivity
 - 🧑‍⚕️ Doctor contact directory
+- 🎥 **Video consultation with doctors**
+- 📞 One-tap emergency call button
 - ⚠️ Emergency help section
-- 📚 Health tips & awareness info
-- 👤 Profile & settings
+- 📁 Store medical prescriptions & reports
 
-*(modify based on your real features)*
+### 🤖 AI-Powered Intelligence
+- 🔒 **Offline AI assistant**
+- 📞 AI voice call assistant *(planned)*
+- 💬 AI chatbot for health queries *(in progress)*
+
+### 👤 User Management
+- Profile & settings
+- Secure authentication 
 
 <br>
 
@@ -29,29 +34,16 @@ To make healthcare guidance accessible, organized and effortless for everyone �
 **Frontend**
 - Flutter
 - Dart
+- Figma
 
 **Backend**
-- Supabase / Firebase  
-*(depending on what you used)*
+- Supabase
+
+**AI**
+- Grok AI llm model API
 
 **Integrations**
-- Local notifications / reminders
-- Cloud storage
-- Secure Auth
+- Twilio for Auth and OTP
+- Video calling API using ZegoCloud
 
 <br>
-
-## 📷 UI Screenshots
-
-(place screenshots in `/screenshots` folder)
-
-| Home | Health Log | Reminders |
-|------|-------------|-----------|
-| ![](screenshots/home.png) | ![](screenshots/logo.jpg) | ![](screenshots/reminders.png) |
-
-<br>
-
-## 🎥 App Demo
-
-(Add link after upload)
-
