@@ -47,7 +47,7 @@ To make healthcare guidance accessible, organized and effortless for everyone â€
 
 | Home | Health Log | Reminders |
 |------|-------------|-----------|
-| ![](screenshots/home.png) | ![](screenshots/log.png) | ![](screenshots/reminders.png) |
+| ![](screenshots/home.png) | ![](screenshots/logo.jpg) | ![](screenshots/reminders.png) |
 
 <br>
 
